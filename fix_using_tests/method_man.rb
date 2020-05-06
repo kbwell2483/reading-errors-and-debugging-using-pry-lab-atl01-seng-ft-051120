@@ -9,7 +9,7 @@ end
 
 start_game
 
-def play_game(player2)
+def play_game
   puts "#{player1} is better than #{player2}"
 end
 
