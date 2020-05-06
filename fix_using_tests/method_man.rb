@@ -7,7 +7,7 @@ def start_game
   binding.pry
 end 
 
-start_game(
+start_game
 
 def play_game(player2)
   puts "#{player1} is better than #{player2}"
